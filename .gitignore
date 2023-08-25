@@ -25,3 +25,6 @@ venv.bak/
 
 # Excel
 *.xlsx
+
+# Logs
+*.log
